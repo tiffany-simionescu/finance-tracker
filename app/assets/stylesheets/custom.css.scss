@@ -30,3 +30,8 @@
   margin-top: 3.5%;
   padding-right: 5px;
 }
+
+.disabled {
+  cursor: not-allowed !important;
+  pointer-events: none !important;
+}
